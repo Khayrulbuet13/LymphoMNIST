@@ -47,7 +47,7 @@ print(f"LymphoMNIST v{LymphoMNIST.__version__} @ {LymphoMNIST.HOMEPAGE}")
 
 For a detailed tutorial on using LymphoMNIST,  follow this Google Colab notebook. 
 
-[![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MedMNIST/MedMNIST/blob/main/examples/getting_started.ipynb)
+[![](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Khayrulbuet13/LymphoMNIST/blob/main/examples/tutorial.ipynb)
 
 
 
@@ -61,23 +61,11 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![tqdm][tqdm-shield]][tqdm-url]
 
 
-<!-- * [![TorchVision][torchvision-shield]][torchvision-url]
-* [![Pillow][pillow-shield]][pillow-url]
-* [![Requests][requests-shield]][requests-url]
-[![LinkedIn][linkedin-shield]][linkedin-url] -->
-
-
-
-
-
-
-
-
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the Apache License. See `LICENSE` for more information.
+
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg?style=for-the-badge)](./LICENSE)
 
 

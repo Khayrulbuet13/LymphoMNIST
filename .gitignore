@@ -1,1 +1,5 @@
 __pycache__/*
+LymphoMNIST/__pycache__/*
+LymphoMNIST.egg-info/*
+ck/*
+dist/*
