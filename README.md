@@ -47,7 +47,7 @@ print(f"LymphoMNIST v{LymphoMNIST.__version__} @ {LymphoMNIST.HOMEPAGE}")
 
 For a detailed tutorial on using LymphoMNIST,  follow this Google Colab notebook. 
 
-[![](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Khayrulbuet13/LymphoMNIST/blob/main/examples/tutorial.ipynb)
+[![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Khayrulbuet13/LymphoMNIST/blob/main/examples/tutorial.ipynb)
 
 
 
