@@ -41,8 +41,8 @@ pip install LymphoMNIST
 
 ### Step 3:check LymphoMNIST version
 ```python
-import LymphoMNIST
-print(f"LymphoMNIST v{LymphoMNIST.__version__} @ {LymphoMNIST.HOMEPAGE}")
+import LymphoMNIST as info
+print(f"LymphoMNIST v{info.__version__} @ {info.HOMEPAGE}")
 ```
 
 For a detailed tutorial on using LymphoMNIST,  follow this Google Colab notebook. 
