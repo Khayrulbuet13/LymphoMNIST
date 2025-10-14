@@ -1,2 +1,2 @@
-__version__ = "0.0.1"
-HOMEPAGE = "https://github.com/Khayrulbuet13/Lympho3-MNIST.git"
+__version__ = "1.0"
+HOMEPAGE = "https://github.com/Khayrulbuet13/LymphoMNIST"

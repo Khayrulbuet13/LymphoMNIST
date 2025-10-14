@@ -39,7 +39,7 @@ pip install torch torchvision Pillow numpy tqdm requests matplotlib
 pip install LymphoMNIST
 ```
 
-### Step 3:check LymphoMNIST version
+### Step 3: Check LymphoMNIST version
 ```python
 import LymphoMNIST as info
 print(f"LymphoMNIST v{info.__version__} @ {info.HOMEPAGE}")
@@ -47,13 +47,11 @@ print(f"LymphoMNIST v{info.__version__} @ {info.HOMEPAGE}")
 
 For a detailed tutorial on using LymphoMNIST,  follow this Google Colab notebook. 
 
-[![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Khayrulbuet13/LymphoMNIST/blob/main/examples/tutorial.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Khayrulbuet13/LymphoMNIST/blob/main/examples/tutorial.ipynb)
 
 
 
 ### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [![PyTorch][PyTorch-shield]][PyTorch-url]
 * [![NumPy][numpy-shield]][numpy-url]
@@ -77,7 +75,7 @@ Distributed under the Apache License. See `LICENSE` for more information.
 
 Khayrul Islam - [@LinkedIN](https://linkedin.com/in/khayrulbuet13) - khayrulbuet13@alum.lehigh.edu
 
-Project Link: [Lympho3-MNIST](https://github.com/Khayrulbuet13/Lympho3-MNIST)
+Project Link: [LymphoMNIST](https://github.com/Khayrulbuet13/LymphoMNIST)
 
 
 
@@ -87,7 +85,7 @@ Project Link: [Lympho3-MNIST](https://github.com/Khayrulbuet13/Lympho3-MNIST)
 
 This project is funded by:
 
-![NIH](Images/NSF.jpeg)
+![NSF](Images/NSF.jpeg)
 
 
 
@@ -96,7 +94,7 @@ This project is funded by:
 
 ## Release Note
 
-*Initial release: This is the first release of Lympho3-MNIST, marking the introduction of the dataset to the research community.*
+*Initial release: This is the first release of LymphoMNIST, marking the introduction of the dataset to the research community.*
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
